@@ -1,8 +1,8 @@
 ### Hi there 👋
-![Snake animation] (https://github.com/isabelaferro/isabelaferro)
+
 <!--
 **isabelaferro/isabelaferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Snake animation] (https://github.com/isabelaferro/isabelaferro)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
