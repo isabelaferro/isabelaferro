@@ -1,4 +1,4 @@
-### Hi there 👋
+### get outta here 👋
   ![Snake animation](https://github.com/isabelaferro/isabelaferro/blob/output/github-contribution-grid-snake.svg)
 <!--
 **isabelaferro/isabelaferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
